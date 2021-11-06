@@ -1,13 +1,13 @@
 {
-  "name": "team-sanctuary",
+  "name": "sideprice",
   "version": "1.0.0",
-  "description": "",
+  "description": "Discord bot that displays price information in the member list",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "joebalancio",
   "license": "ISC",
   "dependencies": {
     "discord.js": "^13.3.1",
