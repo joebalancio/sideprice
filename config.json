@@ -1,0 +1,24 @@
+{
+  "nicknames": [
+    {
+      "currencyName": "usd",
+      "currencySymbol": "$"
+    },
+    {
+      "currencyName": "php",
+      "currencySymbol": "₱"
+    }
+  ],
+  "activities": [
+    {
+      "label": "24h",
+      "prop": "price_change_percentage_24h",
+      "suffix": "%"
+    },
+    {
+      "label": "7d",
+      "prop": "price_change_percentage_7d",
+      "suffix": "%"
+    }
+  ]
+}
